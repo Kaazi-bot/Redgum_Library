@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /member/
+Disallow: /config/
+
+Sitemap: https://www.redgumlibrary.example/sitemap.xml

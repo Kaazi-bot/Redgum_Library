@@ -1,0 +1,2 @@
+# Prevent direct web access to database credentials
+Require all denied
